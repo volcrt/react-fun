@@ -5,7 +5,7 @@ React hook to provide a function that is able to access actual states in an anon
 ## Install
 
 ```sh
-yarn add react-fun
+yarn add react-use-fun
 # or
 npm i react-use-fun --save
 ```
