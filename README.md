@@ -7,7 +7,7 @@ React hook to provide a function that is able to access actual states in an anon
 ```sh
 yarn add react-fun
 # or
-npm i react-fun --save
+npm i react-use-fun --save
 ```
 
 ## Usage / Example:
