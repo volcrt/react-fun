@@ -7,7 +7,7 @@ import {useEffect, useState} from "react";
  * @param deps
  * @returns the synchronized function
  */
-export default function useFun(fun, deps = null){
+export function useFun(fun, deps = null){
     const [envelope] = useState({fun: fun})
 
     useEffect(() =>{

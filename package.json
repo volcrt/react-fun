@@ -1,6 +1,6 @@
 {
   "name": "react-use-fun",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "provides a synchronized function that is able to access actual states even when calling from an asynchronous function",
   "main": "src/index.js",
   "repository": {
