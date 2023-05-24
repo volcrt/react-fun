@@ -1,11 +1,11 @@
 {
-  "name": "react-use-fun",
-  "version": "1.0.1",
+  "name": "react-fun",
+  "version": "1.0.0",
   "description": "provides a synchronized function that is able to access actual states even when calling from an asynchronous function",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/volcrt/react-use-fun"
+    "url": "https://github.com/volcrt/react-fun"
   },
   "keywords": [
     "react",
@@ -17,7 +17,7 @@
   "author": "volcrt",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/volcrt/react-use-fun/issues"
+    "url": "https://github.com/volcrt/react-fun/issues"
   },
   "peerDependencies": {
     "react": "^18.2.0"
