@@ -1,4 +1,4 @@
-# use-callback
+# use-fun
 
 React hook to provide a function that is able to access actual states in an anonymous context.
 
